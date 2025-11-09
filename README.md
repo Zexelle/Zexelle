@@ -2,4 +2,4 @@
 
 * 🔍 I’m interested in sharing my projects as I continue to teach myself SQL, Excel, Python, Tableau and Power BI.
 
-* ✉️ Have any questions? Email me: AzardZury@gmail.com
+* ✉️ Feel free to reach out at anytime! Email me: AzardZury@gmail.com

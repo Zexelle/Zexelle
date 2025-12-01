@@ -1,5 +1,5 @@
-* 👋🏾 Hi, I’m Zury! I'm a Data Analyst trying to navigate my way through this field.
+*👋🏾 Hi, I’m Zury! I’m a Data Analyst building my skills and expanding my experience in the field.
 
-* 🔍 I’m interested in sharing my projects as I continue to teach myself SQL, Excel, Python, Tableau and Power BI.
+*🔍 I’m actively developing projects as I strengthen my abilities in SQL, Excel, Python, Tableau, and Power BI.
 
-* ✉️ Feel free to reach out at anytime! Email me: AzardZury@gmail.com
+*✉️ Feel free to connect anytime! Email: AzardZury@gmail.com
